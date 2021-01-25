@@ -55,6 +55,9 @@ img {
     border-radius: 5px;
     height: 150px;
     margin-bottom: 4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .paed-konzept {
@@ -62,6 +65,9 @@ img {
     border-radius: 5px;
     height: 150px;
     margin-bottom: 4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .ergebnisse {
@@ -69,6 +75,9 @@ img {
     border-radius: 5px;
     height: 150px;
     margin-bottom: 4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .kontakt {
@@ -76,6 +85,9 @@ img {
     border-radius: 5px;
     height: 150px;
     margin-bottom: 4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .title {
     margin-bottom: 4rem;
